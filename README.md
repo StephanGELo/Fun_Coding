@@ -2,15 +2,17 @@
 
 Enjoying solving 1 coding problem daily
 
-|           Problem           | Level |    Date    | Type  |         Notes         | #5  | #6  | #7  |
-| :-------------------------: | :---: | :--------: | :---: | :-------------------: | :-: | :-: | :-: |
-| Leetcode Problem 1. Two Sum | Easy  | 2020/11/17 | Array | Succeed in completing | 285 | 287 | 287 |
-|                             |       |  2020/11/  |       |                       |     |     |     |
-|                             |       |  2020/11/  |       |                       |     |     |     |
-|                             |       |  2020/11/  |       |                       |     |     |     |
-|                             |       |  2020/11/  |       |                       |     |     |     |
-|                             |       |  2020/11/  |       |                       |     |     |     |
-|                             |       |  2020/11/  |       |                       |     |     |     |
+| Resource |      Problem     | Level | User |   Date    | Type  |         Notes         | #8  | #9  | #10  |
+| :-------:|:---------------: | :---: | :--: | :--------: | :---: | :-------------------: | :-: | :-: | :-: |
+| Leetcode | 1. Two Sum | Easy | Anna | 2020/11/17 | Array | Succeed in completing |  |  |  |
+| Leetcode | 1. Two Sum | Easy | Stephan | 2020/11/17 | Array | Succeed in completing |  |  |  |
+| LeetCode | 206. Reverse Linked List | Easy | Anna | 2020/11/18 | LinkedList | Completed in 27min |  |  |  |
+| LeetCode | 206. Reverse Linked List | Easy | Stephan| 2020/11/18 | LinkedList |  |  |  |  |
+
+| LeetCode |  | Easy | Anna | 2020/11/ |  |  |  |  |  |
+| LeetCode |  | Easy | Stephan | 2020/11/ |  |  |  |  |  |
+| LeetCode |  | Easy | Anna | 2020/11/ |  |  |  |  |  |
+| LeetCode |  | Easy | Stephan | 2020/11/ |  |  |  |  |  |
 
 # Syncing a forked repo with the upstream repo
 
