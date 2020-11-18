@@ -8,7 +8,6 @@ Enjoying solving 1 coding problem daily
 | Leetcode | 1. Two Sum | Easy | Stephan | 2020/11/17 | Array | Succeed in completing |
 | LeetCode | 206. Reverse Linked List | Easy | Anna | 2020/11/18 | LinkedList | Completed in 27min |
 | LeetCode | 206. Reverse Linked List | Easy | Stephan| 2020/11/18 | LinkedList |
-
 | LeetCode |  | Easy | Anna | 2020/11/ |  |  |
 | LeetCode |  | Easy | Stephan | 2020/11/ |  |
 | LeetCode |  | Easy | Anna | 2020/11/ |  |  |
