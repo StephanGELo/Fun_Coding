@@ -2,16 +2,16 @@
 
 Enjoying solving 1 coding problem daily
 
-| Resource |      Problem     | Level | User |   Date    | Type  |         Notes         |
-| :-------:|:---------------: | :---: | :--: | :--------: | :---: | :-------------------: |
-| Leetcode | 1. Two Sum | Easy | Anna | 2020/11/17 | Array | Succeed in completing |
-| Leetcode | 1. Two Sum | Easy | Stephan | 2020/11/17 | Array | Succeed in completing |
-| LeetCode | 206. Reverse Linked List | Easy | Anna | 2020/11/18 | LinkedList | Completed in 27min |
-| LeetCode | 206. Reverse Linked List | Easy | Stephan| 2020/11/18 | LinkedList |
-| LeetCode |  | Easy | Anna | 2020/11/ |  |  |
-| LeetCode |  | Easy | Stephan | 2020/11/ |  |
-| LeetCode |  | Easy | Anna | 2020/11/ |  |  |
-| LeetCode |  | Easy | Stephan | 2020/11/ |  |
+| Resource |            Problem             | Level |  User   |    Date    |    Type    |                                                          Notes                                                           |
+| :------: | :----------------------------: | :---: | :-----: | :--------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| Leetcode |           1. Two Sum           | Easy  |  Anna   | 2020/11/17 |   Array    |                                                  Succeed in completing                                                   |
+| Leetcode |           1. Two Sum           | Easy  | Stephan | 2020/11/17 |   Array    |                                                  Succeed in completing                                                   |
+| LeetCode |    206. Reverse Linked List    | Easy  |  Anna   | 2020/11/18 | LinkedList |                                                    Completed in 27min                                                    |
+| LeetCode |    206. Reverse Linked List    | Easy  | Stephan | 2020/11/18 | LinkedList |
+| LeetCode |                                | Easy  |  Anna   |  2020/11/  |            |                                                                                                                          |
+| LeetCode | 937. Reorder Data in Log Files | Easy  | Stephan | 2020/11/20 |   Array    | Completed. Good reference: [Sort an Array of objects](https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/) |
+| LeetCode |                                | Easy  |  Anna   |  2020/11/  |            |                                                                                                                          |
+| LeetCode |                                | Easy  | Stephan |  2020/11/  |            |
 
 # Syncing a forked repo with the upstream repo
 
