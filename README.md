@@ -3,15 +3,17 @@
 Enjoying solving 1 coding problem daily
 
 
-| Resource |            Problem             | Level |  User   |    Date    |    Type    |                                                          Notes                                                           |
+| Resource |            Problem             | Level |  User   |    Date    |    Type    |                                                      Notes                                                           |
 | :------: | :----------------------------: | :---: | :-----: | :--------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
-| Leetcode |           1. Two Sum           | Easy  |  Anna   | 2020/11/17 |   Array    | Succeed in completing                                                   |
-| Leetcode |           1. Two Sum           | Easy  | Stephan | 2020/11/17 |   Array    | Succeed in completing                                                   |
-| LeetCode |    206. Reverse Linked List    | Easy  |  Anna   | 2020/11/18 | LinkedList | Completed in 27min                                                    |
-| LeetCode |    206. Reverse Linked List    | Easy  | Stephan | 2020/11/18 | LinkedList |
+| Leetcode |           1. Two Sum           | Easy  |  Anna   | 2020/11/17 |   Array    | Succeed in completing |
+| Leetcode |           1. Two Sum           | Easy  | Stephan | 2020/11/17 |   Array    | Succeed in completing |
+| LeetCode |    206. Reverse Linked List    | Easy  |  Anna   | 2020/11/18 | LinkedList | Completed |
+| LeetCode |    206. Reverse Linked List    | Easy  | Stephan | 2020/11/18 | LinkedList |           |
 | LeetCode | 937. Reorder Data in Log Files | Easy  |  Anna   | 2020/11/20 | String | Incomplete |
 | LeetCode | 937. Reorder Data in Log Files | Easy  | Stephan | 2020/11/20 | String | Completed. Good reference: [Sort an Array of objects](https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/) |
-| LeetCode |  | Easy  |  Anna   |  2020/11/  |  |  |                                                                                                                        |
+| LeetCode | 53. Maximum Subarray | Easy  |  Anna   |  2020/11/23 | Array | Completed |
+| LeetCode | 21. Merge Two Sorted Lists | Easy | Anna | 2020/11/24 | Linked List | Completed |
+| LeetCode |  | Easy | Anna | 2020/11/ |  |  |
 | LeetCode |  | Easy  | Stephan |  2020/11/  |  |  |
 | LeetCode |  | Easy | Anna | 2020/11/ |  |  |
 | LeetCode |  | Easy | Stephan | 2020/11/ |  |  |
