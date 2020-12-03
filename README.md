@@ -1,8 +1,8 @@
-#Fun_Coding
+# Fun_Coding
 
 ## Enjoying solving 1 coding problem daily
 
-To see the sets of problems we practiced: Progress_Tracking.xlsx
+### To see the sets of problems we practiced: Progress_Tracking.xlsx
 
 
 
@@ -22,7 +22,7 @@ To see the sets of problems we practiced: Progress_Tracking.xlsx
 | LeetCode |  | Easy | Stephan | 2020/11/ |  |  |
 
 
-# Syncing a forked repo with the upstream repo
+## Syncing a forked repo with the upstream repo
 
 Follow this link to [fork a repo from upstream](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) and this link to [sync a forked repo from upstream](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
