@@ -1,6 +1,9 @@
 #Fun_Coding
 
-Enjoying solving 1 coding problem daily
+## Enjoying solving 1 coding problem daily
+
+To see the sets of problems we practiced: Progress_Tracking.xlsx
+
 
 
 | Resource |            Problem             | Level |  User   |    Date    |    Type    |                                                      Notes                                                           |
